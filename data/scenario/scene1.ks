@@ -142,7 +142,7 @@
 [chara_mod  name="akane" face="sad"]
 あちゃぁ....ざんねん...[p]
 [chara_mod  name="akane" face="normal"]
-正解は3番の経済性でした！[p]
+正解は3番の「経済性」でした！[p]
 情報資産は、完全性、機密性、可用性の観点から総合的に評価するんだ。[p]
 経済性は、リスク対応を検討する時の要素の一つではあるけど、情報資産の評価観点には含まれてないんだ。[p]
 @jump target=*common3
@@ -173,7 +173,7 @@
 [chara_mod  name="akane" face="sad"]
 ざんねん！[p]
 [chara_mod  name="akane" face="normal"]
-正解は1番のリスク値 = 資産の価値 × 脅威 × 脆弱性でした！[p]
+正解は1番の「リスク値 = 資産の価値 × 脅威 × 脆弱性」でした！[p]
 @jump target=*common4
 
 *sel4.correct
